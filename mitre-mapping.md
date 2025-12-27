@@ -2,6 +2,9 @@
 
 ## 🧠 MITRE ATT&CK Mapping for AI Threats
 
+This document maps the AI security risks described in the playbook to MITRE ATT&CK tactics and techniques commonly used in SOC detection and response.
+
+
 AI-driven attacks **reuse classic adversary techniques**. The table below maps AI risks to the **MITRE ATT&CK Enterprise framework** for SOC alignment.
 
 | AI Threat | MITRE Tactic | Description |
