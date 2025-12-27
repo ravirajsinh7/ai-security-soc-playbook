@@ -224,6 +224,20 @@ Incorrect AI-generated guidance leads to insecure configurations or operational 
 
 ---
 
+## 📘 Detection Engineering & Framework Mapping
+
+This repository includes detailed SOC-focused documentation:
+
+- 🔍 **SIEM Detection Rules**  
+  Practical detection logic for AI-related threats using Splunk, Microsoft Sentinel (KQL), and IBM QRadar  
+  👉 [View SIEM Detections](./siem-detections.md)
+
+- 🧠 **MITRE ATT&CK Mapping**  
+  Mapping of AI security threats to MITRE ATT&CK tactics and techniques  
+  👉 [View MITRE Mapping](./mitre-mapping.md)
+
+---
+
 ## 📌 License
 
 MIT License – Free to use and share.
