@@ -200,11 +200,6 @@ WITHOUT APPROVAL
 
 ---
 
-## 🎯 Interview-Ready Summary
-
-> “AI threats are detected using traditional SIEM tools by applying new logic to identity, behavior, permissions, and data flow. AI amplifies classic attack techniques rather than replacing them.”
-
----
 
 ## 📌 Disclaimer
 
